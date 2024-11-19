@@ -3,7 +3,7 @@
 ## Aspiring Software Developer and Data Science Enthusiast
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [My Portfolio](http://sriram-chowdaru.netlify.app)
+- 🖥️  See my portfolio at [My Portfolio](http://sriram-chowdary.netlify.app)
 - ✉️  You can contact me at [mogalapusriram391@gmail.com](mailto:mogalapusriram391@gmail.com)
 - 🚀  I'm currently working on [Crypto Notes](http://crypto-notes.netlify.app)
 - 🧠  I'm learning MERN Stack
