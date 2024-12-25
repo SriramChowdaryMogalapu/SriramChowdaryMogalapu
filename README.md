@@ -5,8 +5,8 @@
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [My Portfolio](http://sriram-chowdary.netlify.app)
 - ✉️  You can contact me at [mogalapusriram391@gmail.com](mailto:mogalapusriram391@gmail.com)
-- 🚀  I'm currently working on [Crypto Notes](http://crypto-notes.netlify.app)
-- 🧠  I'm learning MERN Stack
+- 🚀  I'm currently working on [EKYC Verification](https://msrc-ekyc-verification.netlify.app)
+- 🧠  I'm learning MERN Stack, Data Science and Blockchain
 - 🤝  I'm open to collaborating on Interesting Projects
 <div>
 <a href="https://www.github.com/SriramChowdaryMogalapu" target="_blank" rel="noreferrer"><img
