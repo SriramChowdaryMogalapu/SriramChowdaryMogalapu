@@ -147,13 +147,22 @@ Aspiring Software Developer • Data Science Enthusiast • India
 </p>
 
 ## My GitHub Stats
-<!-- Recommended: keep it to 2 widgets -->
-<a href="https://www.github.com/SriramChowdaryMogalapu">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriramChowdaryMogalapu&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="SriramChowdaryMogalapu's GitHub stats" />
-</a>
-<a href="https://www.github.com/SriramChowdaryMogalapu">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramChowdaryMogalapu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
-</a>
+<!-- 3 widgets, aligned nicely (2-column layout) -->
+
+<div align="center">
+  <a href="https://www.github.com/SriramChowdaryMogalapu">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SriramChowdaryMogalapu&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://www.github.com/SriramChowdaryMogalapu">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriramChowdaryMogalapu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SriramChowdaryMogalapu">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramChowdaryMogalapu&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
+  </a>
+</div>
 
 ## Top Repositories
 <div width="100%" align="center">
