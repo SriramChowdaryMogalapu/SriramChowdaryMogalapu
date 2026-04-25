@@ -120,14 +120,6 @@ Aspiring Software Developer • Data Science Enthusiast • India
   </tr>
 </table>
 
-## Featured Projects
-(From your pinned repos)
-
-- **cryptobackend** — Crypto-related backend project.
-- **FloraStore** — E-commerce/store app.
-- **eKYC** — Know Your Customer verification project.
-- **Automated_Essay_Scoring** — ML/NLP project for automated essay scoring.
-
 ## Socials
 <p align="left">
   <a href="https://www.github.com/SriramChowdaryMogalapu" target="_blank" rel="noreferrer">
