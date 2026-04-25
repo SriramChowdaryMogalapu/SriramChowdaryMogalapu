@@ -1,11 +1,11 @@
 # Sriram Chowdary Mogalapu 👋
-Aspiring Software Developer • Data Science Enthusiast • India
+Data Solution Architect
 
 - 🌍 I'm based in India
 - 🖥️ Portfolio: https://sriram-chowdary.netlify.app
 - ✉️ Email: mogalapusriram391@gmail.com
 - 🚀 Currently working on: **EKYC Verification** — https://msrc-ekyc-verification.netlify.app
-- 🧠 Learning: MERN Stack, Data Science, Blockchain
+- 🧠 Skills in: MERN Stack, Data Science, React Js, Next Js, Python, Flask,
 - 🤝 Open to collaborating on interesting projects
 
 <a href="https://www.github.com/SriramChowdaryMogalapu" target="_blank" rel="noreferrer">
